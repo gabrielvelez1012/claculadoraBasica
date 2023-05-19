@@ -54,7 +54,7 @@ const Calculator = () => {
     }
 
   return (
-    <div>
+    <div className="all-container">
         <Box m={5}/>
       <div style={{ marginTop: "2em" }}></div>
       <Container maxWidth="sm">
